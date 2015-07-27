@@ -1,0 +1,17 @@
+Package: dataWorkshop
+Version: 2.1
+Date: July 16, 2015
+Title: Data sets for learning exploratory data analysis
+Author: Douglas Nychka
+Authors@R: c( person("Douglas", "Nychka", role = c("aut", "cre"),
+               email = "nychka@ucar.edu"),
+            person("Stephan", "Sain", role = "aut",
+               email = "ssain@ucar.edu")) 
+Maintainer: Douglas Nychka <nychka@ucar.edu>
+Description: This a package that collects some substantial data sets
+ to use for teaching data analysis in R. 
+License: GPL (>= 2)
+URL: http://www.image.ucar.edu/nychka
+Depends: R (>= 3.0), methods, maps, fields
+NeedsCompilation: no
+Packaged: 2015-07-17 03:01:25 UTC; nychka

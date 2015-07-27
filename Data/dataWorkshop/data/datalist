@@ -1,0 +1,24 @@
+AudiA4: AudiA4 AudiA4Raw getCar
+BoulderDaily
+BoulderJuneTemperature
+BoulderRainfall
+BoulderTemperature
+CO2: CO2 CO2.true
+COmonthlyMet: CO.elev CO.id CO.loc CO.names CO.ppt CO.ppt.MAM CO.ppt.MAM.climate CO.tmax CO.tmax.MAM CO.tmax.MAM.climate CO.tmean.MAM.climate CO.tmin CO.tmin.MAM CO.tmin.MAM.climate CO.years
+DC3: DC8 GulfStream
+Denver0Z
+NorthAmericanRainfall
+PRISMelevation
+PilotSUV
+RMelevation
+SST: SST lat lon tm
+UStornado
+VictoriaT
+WorldBankCO2
+YSUsers
+lennon
+miniTriathlon
+nba
+seaice
+wnba
+ysdata
